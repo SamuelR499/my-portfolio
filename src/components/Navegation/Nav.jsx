@@ -8,12 +8,8 @@ import { BiMessageDetail } from 'react-icons/bi';
 import { useState } from 'react';
 
 const Nav = () => {
-  const [activeNav, setActiveNav] = useState('#home');
+  const [activeNav, setActiveNav] = useState('home');
 
-//  const handleClick = ({target: {baseURI}}) =>{
-//   const link = baseURI.split('http://localhost:3000/')[1];
-//    setActiveNav(link);
-//  }
     return (
       <nav>
         <a 
