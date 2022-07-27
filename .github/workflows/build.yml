@@ -3,10 +3,7 @@ name: deploy
 on:
   push:
     branches:
-<<<<<<< HEAD
       - first-step
-=======
->>>>>>> 8081f06e70c255e5a94fe2b1737a4598d18e8b59
       - master
 
 jobs:
