@@ -11,72 +11,56 @@ function Experience() {
         <div className="experience_frontend">
           <h3>Frontend Development</h3>
           <div className="experience_content">
-            <article className="expe">
-              <BsPatchCheckFill />
-              <h4>HTML</h4>
-              <small className="text-light">Experienced</small>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>HTML</h4>
+                <small className="text-light">Experieced</small>
+              </div>
             </article>
-            <article className="expe">
-              <BsPatchCheckFill />
-              <h4>CSS</h4>
-              <small className="text-light">Intermediate</small>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>CSS</h4>
+                <small className="text-light">intermediate</small>
+              </div>
             </article>
-            <article className="expe">
-              <BsPatchCheckFill />
-              <h4>JavaScript</h4>
-              <small className="text-light">Experienced</small>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>JavaScript</h4>
+                <small className="text-light">Experieced</small>
+              </div>
             </article>
-            <article className="expe">
-              <BsPatchCheckFill />
-              <h4>TailWind</h4>
-              <small className="text-light">Intermediate</small>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Bootstrap</h4>
+                <small className="text-light">intermediate</small>
+              </div>
             </article>
-            <article className="expe">
-              <BsPatchCheckFill />
-              <h4>Bootstrap</h4>
-              <small className="text-light">Intermediate</small>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Tailwind</h4>
+                <small className="text-light">intermediate</small>
+              </div>
             </article>
-            <article className="expe">
-              <BsPatchCheckFill />
-              <h4>React</h4>
-              <small className="text-light">Experienced</small>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>React</h4>
+                <small className="text-light">Experieced</small>
+              </div>
             </article>
           </div>
         </div>
-{/*==================================================================*/}
-        <div className="experience_backend" />
-        <h3>Backend Development</h3>
-        <div className="experience_content">
-          <article className="expe">
-            <BsPatchCheckFill />
-            <h4>-</h4>
-            <small className="text-light">--</small>
-          </article>
-          <article className="expe">
-            <BsPatchCheckFill />
-            <h4>-</h4>
-            <small className="text-light">--</small>
-          </article>
-          <article className="expe">
-            <BsPatchCheckFill />
-            <h4>-</h4>
-            <small className="text-light">--</small>
-          </article>
-          <article className="expe">
-            <BsPatchCheckFill />
-            <h4>-</h4>
-            <small className="text-light">--</small>
-          </article>
-          <article className="expe">
-            <BsPatchCheckFill />
-            <h4>-</h4>
-            <small className="text-light">--</small>
-          </article>
-          <article className="expe">
-            <BsPatchCheckFill />
-            <h4>-</h4>
-            <small className="text-light">--</small>
-          </article>
+        {/*==========================================================*/}
+        <div className="experience_backend">
+          <h3>Backend Development</h3>
+          <div className="experience_content">
+            <h1 className="text light">Coming soon</h1>
+          </div>
         </div>
       </div>
     </section>
