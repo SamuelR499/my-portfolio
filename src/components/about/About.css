@@ -3,6 +3,12 @@
   grid-template-columns: 35% 50%;
   gap: 15%
 }
+
+#trybe{
+color: #2fc18c;
+font-weight: bold;
+}
+
 .about_me {
   width: 100%;
   aspect-ratio: 8/10.5;
