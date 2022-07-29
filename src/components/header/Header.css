@@ -2,7 +2,7 @@ header {
   height: 100vh;
   padding-top: 1rem;
   overflow: hidden;
-  padding-bottom: 1rem;
+  bottom: 1rem;
 }
 
 .logo_container {
@@ -74,7 +74,7 @@ header {
 /*=============== MEDIA QUERIES { MEDIUM DEVICES} ===============*/
 @media screen and (max-width: 1024px) {
 header {
-  height:  85vh;
+  height:  100vh;
 }
 }
 /*=============== MEDIA QUERIES { SMALL DEVICES} ===============*/
