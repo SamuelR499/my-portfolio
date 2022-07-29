@@ -5,7 +5,7 @@
 }
 
 #trybe{
-color: #2fc18c;
+color: var(--color-primary-variant);
 font-weight: bold;
 }
 
