@@ -12,6 +12,7 @@ const Services = () => {
         <article className="service">
           <div className="service_head">
             <h3>UI/UX Design</h3>
+          </div>
             <ul className="service_list">
               <li>
                 <BiCheck className="service_list-icon"/>
@@ -42,13 +43,13 @@ const Services = () => {
                 <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
               </li>
             </ul>
-          </div>
         </article>
         {/*================== END OF UI/UX Design ========================*/}
 
         <article className="service">
           <div className="service_head">
             <h3>Web Development</h3>
+          </div>
             <ul className="service_list">
               <li>
                 <BiCheck className="service_list-icon"/>
@@ -79,12 +80,12 @@ const Services = () => {
                 <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
               </li>
             </ul>
-          </div>
         </article>
         {/*================== END OF WEB DEVELOPMENT =====================*/}
         <article className="service">
           <div className="service_head">
             <h3>Creation</h3>
+          </div>
             <ul className="service_list">
               <li>
                 <BiCheck className="service_list-icon"/>
@@ -115,7 +116,6 @@ const Services = () => {
                 <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
               </li>
             </ul>
-          </div>
         </article>
         {/*============== END OF CONTENT CREATION =====================*/}
 
