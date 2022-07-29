@@ -1,7 +1,19 @@
 header {
   height: 100vh;
-  padding-top: 7rem;
+  padding-top: 1rem;
   overflow: hidden;
+}
+
+.logo_container {
+  width: 20%;
+  aspect-ratio: 1/1;
+  background: transparent;
+  display: grid;
+  place-items: center;
+}
+
+.logo_container-img {
+  transform: rotate(-10deg);
 }
 
 .header_container{
