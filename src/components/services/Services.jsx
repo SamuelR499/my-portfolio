@@ -1,11 +1,12 @@
 import React from 'react'
 import './Services.css'
-import { BiCheck } from 'react-icons/bi'
+// import { BiCheck } from 'react-icons/bi'
 
 const Services = () => {
   return (
     <section id="services">
-      <h5>What I Offer</h5>
+      Services: em construção
+      {/* <h5>What I Offer</h5>
       <h2>Services</h2>
 
       <div className="container services_container">
@@ -43,10 +44,10 @@ const Services = () => {
                 <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
               </li>
             </ul>
-        </article>
+        </article> */}
         {/*================== END OF UI/UX Design ========================*/}
 
-        <article className="service">
+        {/* <article className="service">
           <div className="service_head">
             <h3>Web Development</h3>
           </div>
@@ -80,9 +81,9 @@ const Services = () => {
                 <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
               </li>
             </ul>
-        </article>
+        </article> */}
         {/*================== END OF WEB DEVELOPMENT =====================*/}
-        <article className="service">
+        {/* <article className="service">
           <div className="service_head">
             <h3>Creation</h3>
           </div>
@@ -116,10 +117,10 @@ const Services = () => {
                 <p>Lorem ipsum, dolor sit amet consectetur elit.</p>
               </li>
             </ul>
-        </article>
+        </article> */}
         {/*============== END OF CONTENT CREATION =====================*/}
 
-      </div>
+      {/* </div> */}
     </section>
   )
 }
