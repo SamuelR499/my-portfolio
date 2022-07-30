@@ -36,7 +36,7 @@ const About = () => {
                 <small>20+ Completed</small>
               </article>
             </div>
-            <p>Hello, welcome to my portfolio, I'm 24 years old, I live in São Paulo, I'm a student at <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjw54iXBhCXARIsADWpsG92yodheVHZPJ3XOEeEv7CncpBQ0r7pRYb16Zvt-s-8DhPmJ0kzRVsaApvBEALw_wcB" id="trybe">Trybe</a> and I like being a developer, and my main hobby is spending time with family and friends</p>
+            <p>Hello, welcome to my portfolio, I'm 24 years old, I live in São Paulo, I'm a student at <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjw54iXBhCXARIsADWpsG92yodheVHZPJ3XOEeEv7CncpBQ0r7pRYb16Zvt-s-8DhPmJ0kzRVsaApvBEALw_wcB" id="trybe" target="blank">Trybe</a> and I like being a developer, and my main hobby is spending time with family and friends</p>
           </div>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
       </div>
