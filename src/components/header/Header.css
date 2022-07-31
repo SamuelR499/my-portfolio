@@ -5,19 +5,7 @@ header {
   bottom: 1rem;
 }
 
-.logo_container {
-  width: 20%;
-  aspect-ratio: 1/1;
-  background: transparent;
-  display: grid;
-  place-items: center;
-}
-
-.logo_container-img {
-  transform: rotate(-10deg);
-}
-
-.header_container{
+.header_container {
   text-align: center;
   height: 100%;
   position: relative;
