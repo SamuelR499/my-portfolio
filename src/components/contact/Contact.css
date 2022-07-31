@@ -36,6 +36,15 @@
     font-size: 0.8rem;
 
 }
+#btn_enviar-config:disabled {
+    background-color: #393c47;
+    color: var(--color-light);
+    border-color: transparent;
+}
+#btn_enviar-config:disabled:hover {
+    border-color: rgb(240, 32, 32);;
+    color: rgb(240, 32, 32);
+}
 /* ============================ FORM ============================ */
 form {
     display: flex;
