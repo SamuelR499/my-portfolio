@@ -111,7 +111,7 @@ const Contact = () => {
           <textarea
             name="message"
             rows="7"
-            placeholder="Sua Mensagem"
+            placeholder="Sua Mensagem tem que ter mais de 6 caracteres"
             value={message}
             onChange={handlechange}
             required

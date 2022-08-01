@@ -9,8 +9,8 @@ import { VscFolderLibrary } from "react-icons/vsc";
 const About = () => {
   return (
     <section id="about">
-      <h5>Get to Know</h5>
-      <h2> About Me</h2>
+      <h5>Venha</h5>
+      <h2>Me conhecer</h2>
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
@@ -22,21 +22,21 @@ const About = () => {
             <div className="about_cards">
               <article className="about_card">
                 <FaAward className="about_icon"/>
-                <h5>Experience</h5>
-                <small>1 Year studying</small>
+                <h5>Experiência</h5>
+                <small>1 Ano estudando</small>
               </article>
               <article className="about_card">
                 <FiUsers className="about_icon"/>
-                <h5>Best softskill</h5>
-                <small>Comunication</small>
+                <h5>Melhor softskill</h5>
+                <small>Comunicação</small>
               </article>
               <article className="about_card">
                 <VscFolderLibrary className="about_icon"/>
-                <h5>Projects</h5>
-                <small>20+ Completed</small>
+                <h5>Projetos</h5>
+                <small>20+ Completos</small>
               </article>
             </div>
-            <p>Hello, welcome to my portfolio, I'm 24 years old, I live in São Paulo, I'm a student at <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjw54iXBhCXARIsADWpsG92yodheVHZPJ3XOEeEv7CncpBQ0r7pRYb16Zvt-s-8DhPmJ0kzRVsaApvBEALw_wcB" id="trybe" target="blank">Trybe</a> and I like being a developer, and my main hobby is spending time with family and friends</p>
+            <p>Olá bem-vindo ao meu portfólio, eu tenho 24 anos de idade, eu moro no interio de São Paulo e sou estudante na <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjw54iXBhCXARIsADWpsG92yodheVHZPJ3XOEeEv7CncpBQ0r7pRYb16Zvt-s-8DhPmJ0kzRVsaApvBEALw_wcB" id="trybe" target="blank">Trybe</a>. Eu gosto de ser desenvolvedor e meu principal hobbie é passar tempo com família e amigos.</p>
           </div>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
       </div>

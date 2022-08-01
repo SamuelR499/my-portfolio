@@ -5,8 +5,8 @@ import Nav from './components/Navegation/Nav';
 import Experience from './components/experience/Experience';
 import Contact from './components/contact/Contact';
 import Testimonials from './components/testimonials/Testimonials';
-import Services from './components/services/Services';
-import Portifolio from './components/portifolio/Portifolio';
+import SoftSkill from './components/SoftSkills/SoftSkills';
+import Portfolio from './components/portfolio/Portfolio';
 
 
 function App() {
@@ -16,8 +16,8 @@ function App() {
       <Nav/>
       <About />
       <Experience/>
-      <Services/>
-      <Portifolio/>
+      <SoftSkill/>
+      <Portfolio/>
       <Testimonials/>
       <Contact/>
       <Footer />

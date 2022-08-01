@@ -12,7 +12,7 @@ const data = [
   {
     id: 2,
     image: construcao,
-    title: 'This is a portfolio in construction',
+    title: 'em construção',
     github: 'https://github.com/SamuelR499/notfound',
     demo: 'https://github.com/SamuelR499/notfound',
     concluded: false
@@ -20,7 +20,7 @@ const data = [
   {
     id: 3,
     image: construcao,
-    title: 'This is a portfolio in construction',
+    title: 'em construção',
     github: 'https://github.com/SamuelR499/notfound',
     demo: 'https://github.com/SamuelR499/notfound',
     concluded: false
@@ -28,7 +28,7 @@ const data = [
   {
     id: 4,
     image: construcao,
-    title: 'This is a portfolio in construction',
+    title: 'em construção',
     github: 'https://github.com/SamuelR499/notfound',
     demo: 'https://github.com/SamuelR499/notfound',
     concluded: false
@@ -36,7 +36,7 @@ const data = [
   {
     id: 5,
     image: construcao,
-    title: 'This is a portfolio in construction',
+    title: 'em construção',
     github: 'https://github.com/SamuelR499/notfound',
     demo: 'https://github.com/SamuelR499/notfound',
     concluded: false
@@ -44,7 +44,7 @@ const data = [
   {
     id: 6,
     image: construcao,
-    title: 'This is a portfolio in construction',
+    title: 'em construção',
     github: 'https://github.com/SamuelR499/notfound',
     demo: 'https://github.com/SamuelR499/notfound',
     concluded: false

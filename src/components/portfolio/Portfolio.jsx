@@ -1,12 +1,12 @@
 import React from 'react';
-import './Portifolio.css';
+import './Portfolio.css';
 import data from '../../assets/projetos';
 
-const Portifolio = () => {
+const Portfolio = () => {
   return (
-    <section id="portifolio">
-      <h5>My Recente Work</h5>
-      <h2> Portfolio</h2>
+    <section id="portfolio">
+      <h5>Meus trabalhos recentes</h5>
+      <h2> Portfólio</h2>
 
       <div className="container portfolio_container">
         {data.map(({ id, image, title, github, demo, concluded }) =>
@@ -32,4 +32,4 @@ const Portifolio = () => {
   );
 };
 
-export default Portifolio;
+export default Portfolio;

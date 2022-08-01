@@ -38,9 +38,9 @@ const Nav = () => {
         </a>
 
         <a 
-          href="#services"
-          onClick={()=>setActiveNav('#services')}
-         className={ activeNav === '#services' ? 'active' : '' }
+          href="#softskill"
+          onClick={()=>setActiveNav('#softskill')}
+         className={ activeNav === '#softskill' ? 'active' : '' }
         >
           <RiServiceLine />
         </a>

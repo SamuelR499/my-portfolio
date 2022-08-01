@@ -1,5 +1,5 @@
 header {
-  height: 100vh;
+  height: 40vh;
   padding-top: 1rem;
   overflow: hidden;
   bottom: 1rem;
@@ -9,6 +9,10 @@ header {
   text-align: center;
   height: 100%;
   position: relative;
+}
+
+.text_header {
+  margin-bottom: 1rem;
 }
 
 /*=================== CTA ===================*/
@@ -62,13 +66,13 @@ header {
 /*=============== MEDIA QUERIES { MEDIUM DEVICES} ===============*/
 @media screen and (max-width: 1024px) {
 header {
-  height:  100vh;
+  height:  40vh;
 }
 }
 /*=============== MEDIA QUERIES { SMALL DEVICES} ===============*/
 @media screen and (max-width: 600px) {
 header {
-  height: 100vh;
+  height: 30vh;
 }
 .header_socials,
 .scroll_down {
