@@ -7,10 +7,9 @@ Aqui, você vai encontrar os detalhes de como está estruturado e como foi feito
 
 
 # Desenvolvimento
-
-
-  <summary><strong>🤷🏽‍♀️ Como foi feito</strong></summary><br />
-    ⚠ ** FOI CRIADO TODOS OS ARQUIVOS DENTRO DA PASTA COM O SEU NOME** ⚠<br />
+<strong>🤷🏽‍♀️ Como foi feito</strong><br />
+<br />
+⚠ ** FOI CRIADO TODOS OS ARQUIVOS DENTRO DA PASTA COM O SEU NOME** ⚠<br />
   1. As dependências
 
   - Instale as dependências:
@@ -19,7 +18,7 @@ Aqui, você vai encontrar os detalhes de como está estruturado e como foi feito
     - `npm start`<bt />
   2. Foi utilizado:
   - O _React Hook useState_<br />
-  - O _emailjs_:
+  - O _emailjs_:\
   `como utilizar` [aqui](https://swiperjs.com/react) <br />
   - O _React icons_:\
   `como utilizar` [aqui](https://react-icons.github.io/react-icons/)
@@ -49,7 +48,7 @@ Aqui, você vai encontrar os detalhes de como está estruturado e como foi feito
 
 #
 
-  <strong>🗣 Me dê feedbacks sobre o projeto [aqui](mailto:samuelribeiro2@hotmail.com)) !</strong><br />
+  <strong>🗣 Me dê feedbacks sobre o projeto [aqui](mailto:samuelribeiro2@hotmail.com)!</strong><br />
   <br />
 
 ***Obs: Eu me inspirei [neste projeto](https://www.youtube.com/watch?v=G-Cr00UYokU&ab_channel=EGATOR) Com o intuito de praticar  e me aprofundar em `CSS`.***
