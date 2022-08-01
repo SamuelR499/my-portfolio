@@ -1,32 +1,12 @@
-import AVATAR1 from './avatar1.jpg'
-import AVATAR2 from './avatar2.jpg'
-import AVATAR3 from './avatar3.jpg'
-import AVATAR4 from './avatar4.jpg'
+import Atanes from './atanesIMG.jpg'
 
 const data = [
     {
 			id: 1,
-			avatar: AVATAR1,
-			name: ' Mestre Atanes',
-			review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dolor, quos natus nisi perferendis obcaecati, vel, dolore quam necessitatibus ipsam blanditiis aspernatur nostrum adipisci similique asperiores veritatis alias fugiat nihil.',
+			avatar: Atanes,
+			name: 'Alexandre Atanes - Professor',
+			review: 'Parabéns pelo perfil que você criou aqui no git hub Samuel, não imagina como eu fico feliz em ver como você evoluiu e como está a cada dia mais preparado para encarar o trabalho de desenvolvedor e mostrar todo seu potencial, comprometimento e qualidade nas entregas como tem feito aqui na Trybe!! Vai com tudo que seu futuro vai ser brilhante e de muitas felicidades nessa area meu amigo!! Tamo junto!!',
     },
-		{
-			id: 2,
-			avatar: AVATAR2,
-			name: ' Mestre Wolf',
-			review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dolor, quos natus nisi perferendis obcaecati, vel, dolore quam necessitatibus ipsam blanditiis aspernatur nostrum adipisci similique asperiores veritatis alias fugiat nihil.',
-    },
-		{
-			id: 3,
-			avatar: AVATAR3,
-			name: ' Jean Carlos',
-			review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dolor, quos natus nisi perferendis obcaecati, vel, dolore quam necessitatibus ipsam blanditiis aspernatur nostrum adipisci similique asperiores veritatis alias fugiat nihil.',
-    },
-		{
-			id: 4,
-			avatar: AVATAR4,
-			name: 'Kaique',
-			review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dolor, quos natus nisi perferendis obcaecati, vel, dolore quam necessitatibus ipsam blanditiis aspernatur nostrum adipisci similique asperiores veritatis alias fugiat nihil.',
-    },
+
 ]
 export default data;
