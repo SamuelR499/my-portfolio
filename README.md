@@ -3,7 +3,7 @@
   Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app) que é uma ferramenta de linha de comando criada pelo Facebook que permite gerar um novo projeto React, e usa o webpack pré-configurado para desenvolvimento. #vqv 🚀</br>
 
 
-Aqui, você vai encontrar os detalhes de como esta estruturado e como foi feito o desenvolvimento do projeto e quais foram as _dependencias_ utilizadas 
+Aqui, você vai encontrar os detalhes de como está estruturado e como foi feito o desenvolvimento do projeto e quais foram as _dependencias_ utilizadas 
 
 
 # Desenvolvimento
