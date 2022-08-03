@@ -1,14 +1,14 @@
 .container.testimonials_container {
-    width: 100%;
+    width: 80%;
+    padding-bottom: 4rem;
 }
 
 #testimonials {
     margin-top: 6rem;
 }
-.test {
-    width: 70%;
-    padding: 0 2rem;
-    margin: 0 auto;
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+background: var(--color-primary);
 }
 
 .client_avatar {
@@ -21,7 +21,7 @@
 }
 
 .testimonial {
-    background:  var(--color-bg-variant);
+    background: var(--color-bg-diff);
     text-align: center;
     padding: 2rem;
     border-radius: 2rem;
@@ -31,21 +31,30 @@
 .client_review {
     color: var(--color-light);
     font-weight: 400;
+    font-size: large;
     display: block;
     width: 100%;
     margin: 0.8rem auto 0;
 }
 
   /*=============== MEDIA QUERIES { SMALL DEVICES} ===============*/
-  @media screen and (max-width: 600px) {
-    .testimonials_container {
-        grid-template-columns: 1fr;
-        gap: 1rem;
+  @media screen and (max-width: 1024px) {
+    .container.testimonials_container {
+        width: 80%;
     }
 
-    .test {
-        width: 100%;
-        padding: 0 1rem;
-        margin: 0 auto;
+    .client_review {
+        font-size: medium;
     }
+}
+  /*=============== MEDIA QUERIES { SMALL DEVICES} ===============*/
+  @media screen and (max-width: 600px) {
+    .container.testimonials_container {
+        width: var(--container-width-sm);
+    }
+
+    .client_review {
+        font-size: medium;
+    }
+
 }

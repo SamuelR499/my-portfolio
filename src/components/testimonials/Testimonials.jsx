@@ -16,7 +16,6 @@ const Testimonials = () => {
     <section id="testimonials">
       <h5>Recomendaçoẽs sobre mim</h5>
       <h2>Depoimentos</h2>
-      <div className="test">
         <Swiper
           className="container testimonials_container"
           modules={[Pagination]}
@@ -38,7 +37,6 @@ const Testimonials = () => {
             </SwiperSlide>
           )}
         </Swiper>
-      </div>
     </section>
   );
 };

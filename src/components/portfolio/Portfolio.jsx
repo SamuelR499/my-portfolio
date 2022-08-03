@@ -11,11 +11,10 @@ const Portfolio = () => {
     <section id="portfolio">
       <h5>Meus trabalhos recentes</h5>
       <h2> Portfólio</h2>
-      <div className="test">
         <Swiper
           className="container portfolio_container"
           modules={[Pagination]}
-          spaceBetween={50}
+          spaceBetween={40}
           slidesPerView={1}
           pagination={{ clickable: true }}
         >
@@ -54,7 +53,6 @@ const Portfolio = () => {
             </SwiperSlide>
           )}
         </Swiper>
-      </div>
     </section>
   );
 };

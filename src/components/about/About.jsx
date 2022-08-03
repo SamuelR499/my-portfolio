@@ -38,7 +38,9 @@ const About = () => {
             </div>
             <p>Olá bem-vindo ao meu portfólio, eu tenho 24 anos de idade, eu moro no interior de São Paulo e sou estudante na <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjw54iXBhCXARIsADWpsG92yodheVHZPJ3XOEeEv7CncpBQ0r7pRYb16Zvt-s-8DhPmJ0kzRVsaApvBEALw_wcB" id="trybe" target="blank">Trybe</a>. Eu gosto de ser desenvolvedor e meu principal hobbie é passar tempo com família e amigos.</p>
           </div>
+          <div className='btn-about'>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          </div>
       </div>
     </section>
   )

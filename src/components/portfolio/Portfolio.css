@@ -1,15 +1,19 @@
+.container.portfolio_container {
+    width: 60%;
+    padding-bottom: 4rem;
+}
+
 #portfolio {
     margin-top: 8rem;
 }
 
-.test {
-    width: 70%;
-    padding: 0 2rem;
-    margin: 0 auto;
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: var(--color-primary);
 }
 
 .portfolio_item {
-    background: var(--color-bg-variant);
+    background: var(--color-bg-diff);
     padding: 1.3rem;
     border-radius:  2rem;
     border: 1px solid transparent;
@@ -64,15 +68,17 @@
 }
   
   /*=============== MEDIA QUERIES { SMALL DEVICES} ===============*/
-@media screen and (max-width: 600px) {
-    .portfolio_container {
-        grid-template-columns: 1fr;
-        gap: 1rem;
+  @media screen and (max-width: 1024px) {
+    .container.portfolio_container {
+        width: 80%;
     }
 
-    .test {
-        width: 100%;
-        padding: 0 1rem;
-        margin: 0 auto;
+}
+  /*=============== MEDIA QUERIES { SMALL DEVICES} ===============*/
+  @media screen and (max-width: 600px) {
+    .container.portfolio_container {
+        width: var(--container-width-sm);
     }
+
+
 }
