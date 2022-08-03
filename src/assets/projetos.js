@@ -1,12 +1,12 @@
 import construcao from './construcao.webp';
-import img1 from './portfolio2.jpg'
+import img1 from './projeto1.jpeg'
 const data = [
   {
     id: 1,
     image: img1,
-    title: 'this is an example of a finished project',
-    github: 'https://github.com/SamuelR499/notfound',
-    demo: 'https://github.com/SamuelR499/notfound',
+    title: 'Gerador de senhas',
+    github: 'https://github.com/SamuelR499/gerador-de-senha',
+    demo: 'https://samuelr499.github.io/gerador-de-senha/',
     concluded: true
   },
   {
