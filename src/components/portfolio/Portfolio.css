@@ -1,11 +1,11 @@
-.portfolio_container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2.5rem;
-}
-
 #portfolio {
     margin-top: 8rem;
+}
+
+.test {
+    width: 70%;
+    padding: 0 2rem;
+    margin: 0 auto;
 }
 
 .portfolio_item {
@@ -32,6 +32,7 @@
 
 .portfolio_item-cta, .portfolio_item-cta-unfinished {
     display: flex;
+    justify-content: space-around;
     gap: 1rem;       
     margin-bottom: 1rem; 
 }
@@ -61,18 +62,17 @@
     align-items: center;
     justify-content: space-between;
 }
-/*=============== MEDIA QUERIES { MEDIUM DEVICES} ===============*/
-@media screen and (max-width: 1024px) {
-    .portfolio_container {
-        grid-template-columns: 1fr 1fr;
-        gap: 1.2rem;
-    }
-}
   
   /*=============== MEDIA QUERIES { SMALL DEVICES} ===============*/
 @media screen and (max-width: 600px) {
     .portfolio_container {
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+
+    .test {
+        width: 100%;
+        padding: 0 1rem;
+        margin: 0 auto;
     }
 }

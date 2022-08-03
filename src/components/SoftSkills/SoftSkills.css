@@ -37,6 +37,7 @@
 
 .softskill_list {
     padding: 2rem;
+    height: 210px;
 }
 
 .softskill_list li {
@@ -57,18 +58,27 @@
 /*=============== MEDIA QUERIES { MEDIUM DEVICES} ===============*/
 @media screen and (max-width: 1024px) {
     .softskill_container {
-        grid-template-columns: 1fr 1fr;
+        width: 80%;
+        grid-template-columns: 1fr;
         gap: 2rem;
+        padding: 0 2rem;
+        margin: 0 auto;
     }
     .softskill {
-        height: auto;
+         height: auto; 
     }
 }
   
 /*=============== MEDIA QUERIES { SMALL DEVICES} ===============*/
 @media screen and (max-width: 600px) {
     .softskill_container {
+        width: 100%;
         grid-template-columns: 1fr;
-        gap: 1.5rem;
+        gap: 2rem;
+        padding: 0 2rem;
+        margin: 0 auto;
+    }
+    .softskill {
+         height: auto; 
     }
 }
