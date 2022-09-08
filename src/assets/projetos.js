@@ -1,9 +1,10 @@
 import construcao from './construcao.webp';
-import img1 from './projeto1.jpeg'
+import loginScreen from './tela-de-login.jpg';
+import marioJump from './mario-jump.jpg';
 const data = [
   {
     id: 1,
-    image: img1,
+    image: loginScreen,
     title: 'Gerador de senhas',
     github: 'https://github.com/SamuelR499/gerador-de-senha',
     demo: 'https://samuelr499.github.io/gerador-de-senha/',
@@ -11,11 +12,11 @@ const data = [
   },
   {
     id: 2,
-    image: construcao,
-    title: 'em construção',
+    image: marioJump,
+    title: 'Mario jump',
     github: 'https://github.com/SamuelR499/notfound',
-    demo: 'https://github.com/SamuelR499/notfound',
-    concluded: false
+    demo: 'https://samuelr499.github.io/mario-jump/',
+    concluded: true
   },
   {
     id: 3,
