@@ -14,7 +14,7 @@ const data = [
     id: 2,
     image: marioJump,
     title: 'Mario jump',
-    github: 'https://github.com/SamuelR499/notfound',
+    github: 'https://github.com/SamuelR499/mario-jump',
     demo: 'https://samuelr499.github.io/mario-jump/',
     concluded: true
   },
