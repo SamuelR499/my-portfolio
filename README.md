@@ -86,6 +86,7 @@ npm install
 ```
 
 Então podemos rodar o projeto:
+
 ```sh
 npm start
 ```
