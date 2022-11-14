@@ -43,7 +43,7 @@ As técnicas e tecnologias utilizadas no projeto são:
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final em funcionamento](https://https://samuel-portfolio-ashen.vercel.app/).
+[Veja o projeto final em funcionamento](https://samuel-portfolio-ashen.vercel.app/).
 
 Neste repositório você tem acesso a todo o material.
 
