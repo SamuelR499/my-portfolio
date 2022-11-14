@@ -10,7 +10,7 @@ const Portfolio = () => {
   return (
     <section id="portfolio">
       <h5>Meus trabalhos recentes</h5>
-      <h2> Portfólio</h2>
+      <h2> Projetos</h2>
         <Swiper
           className="container portfolio_container"
           modules={[Pagination]}
