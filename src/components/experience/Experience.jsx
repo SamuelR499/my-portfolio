@@ -59,7 +59,48 @@ function Experience() {
         <div className="experience_backend">
           <h3>Desenvolvimento Back-end</h3>
           <div className="experience_content">
-            <h1 className="text light">Em breve</h1>
+          <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Docker</h4>
+                <small className="text-light">intermediário</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>MySQL</h4>
+                <small className="text-light">experiente</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>TypeScript</h4>
+                <small className="text-light">intermediário</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Node.js</h4>
+                <small className="text-light">intermediário</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>MongoDB</h4>
+                <small className="text-light">intermediário</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Testes</h4>
+                <small className="text-light">experiente</small>
+              </div>
+            </article>
           </div>
         </div>
       </div>
