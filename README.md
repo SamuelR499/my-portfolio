@@ -18,6 +18,7 @@ Aqui, você vai encontrar os detalhes de como está estruturado e como foi feito
 
 # 🔨 Funcionalidades do projeto
 É uma página de scroll infinito, tendo inicialmente 2 elementos como `<a>` um para Download de currículo, e outro um link para a área de contatos. Na parte inferior da página há fixado um `<navBar>` para navegar entre início, contatos, sobre e experiencia, esta pagina contem um carrocel com meus projetos, e no final contem áreas de  informações de contatos onde o usuário pode entrar em contato comigo, para feedbacks ou comunicação de propostas de emprego.
+
 # ⚙️ Desenvolvimento
 
 Eu me inspirei [neste projeto](https://www.youtube.com/watch?v=G-Cr00UYokU&ab_channel=EGATOR), aplicando conceitos de React.js, com a intenção de treinar minhas habiliadades.
